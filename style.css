@@ -1,0 +1,131 @@
+
+header {
+    background: gray;
+    display: flex;
+    justify-content: space-between;
+}
+.head{
+    line-height: 2;
+    text-indent: .5cm;
+    height: 75px;
+    color: white;
+    font-family: Arial Narrow;
+    font-size: 48px;
+    padding-bottom: 0;
+}
+
+.link-wrapper {
+    padding-right: 40px;
+}
+a{
+    margin-right: 25px;
+    line-height: 5;
+    padding-top: 20px;
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+    
+
+}
+
+
+ .p {
+    background: black;
+    color: rgb(253, 253, 108);
+    line-height: 8cm;
+    height: 400px;
+    font-size: 78px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-block-start: 0%;
+    margin-top: 0%;
+    
+}
+
+
+
+.box{
+    background-color: aquamarine;
+    margin-left: 20px;
+    height: 400px; width: 400px;
+    border-radius: 15px;
+}
+
+.box1{
+    background-color: aquamarine;
+    margin-left: 90px;
+    height: 400px; width: 400px;
+    border-radius: 15px;
+}
+
+.box2{
+    background-color: aquamarine;
+    margin-left: 90px;
+    height: 400px; width: 400px;
+    border-radius: 15px;
+    
+}
+
+
+.box-container {
+    display: flex;
+    margin-top: 50px;
+    margin-left:55;
+    
+    
+}
+
+.image {
+    width: 300px;
+    height: auto;
+    margin-left: 30%;
+    
+}
+
+.birds{
+    width: 100%;
+}
+
+
+
+.rectangle{
+    width: 650px;
+    height: 350px;
+    background-color:  rgb(252, 191, 77);
+    margin-left: 20px;
+
+}
+
+.rectangle1{
+    width: 650px;
+    height: 350px;
+    background-color: rgb(252, 191, 77);
+    margin-left: 90px;
+
+}
+.paragraph{
+    width: 350px;
+    height: 125px;
+    margin-left:30px;
+    margin-right:30px;
+
+}
+.box-container1{
+    display:flex; 
+    margin-top: 50px;
+  
+
+}
+
+
+.footer{
+    margin-top:50px;
+    height: 100px;
+    background-color: gray;
+    
+}
+
+p{
+    margin-left:10%;
+    
+}
